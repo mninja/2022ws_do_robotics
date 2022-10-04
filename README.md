@@ -1,4 +1,5 @@
-# Robots d
+# Robots db
 
-This is WS_DOAT Robotics Coursework. This is our repository. 
+This is the Robots DB, that the 2022 winter semester class of _Digital Organization, Automation & Technology_ at [CBS International Business School](https://cbs.de) have put together.
 
+This is our repository.

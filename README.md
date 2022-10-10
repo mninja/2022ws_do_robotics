@@ -43,17 +43,48 @@ ATLAS
 
 Website: [https://www.franka.de/](https://www.franka.de/)
 
-Headquarter:
+Headquarter: 
 
-Size of Company (Nb of Employees):
+Size of Company (Nb of Employees): 
 
-Representative Robot:
+
+
+
+
+
+
+
 
 ### Horst
+
+### Fanuc 
 
 ### Kuka
 
 Website: [https://www.kuka.com/](https://www.kuka.com/)
+
+Headquarter: Augsburg, Germany 
+
+Size of Company (Nb of Employees): 14,000 employees
+
+Representative Robot:
+
+Industrial Robots 
+* different robot types depending on payload (kg) and reach (mm)
+    * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
+
+
+## wide range of applications: 
+
+* [Healtchcare sector](https://www.youtube.com/watch?v=ZM1GZSO7MYs)
+    * Surgery robots 
+    * Therapy robots (like Paro for dementia)
+    * assistive robots 
+    * social robots (e.g. Pepper) 
+* [Automotive Industry](https://www.youtube.com/watch?v=P7fi4hP_y80)
+* Agriculture 
+* Electrical and electronics industry
+* chemical industry
 
 ## References and Interesting Reads
 

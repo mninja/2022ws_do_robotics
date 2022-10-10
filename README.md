@@ -19,7 +19,10 @@ Representative Robot:
 SPOT 
 * Can navigate trough difficult terrain where it is hard for humans to enter
 
-![Image of a Spot robot](Skjermbilde 2022-10-10 101846.png)
+![Image of a Spot robot](Spot-robot.jpg) 
+
+
+
 
 
 

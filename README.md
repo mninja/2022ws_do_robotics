@@ -18,7 +18,7 @@ Representative Robot:
 
 SPOT 
 * Can navigate trough difficult terrain where it is hard for humans to enter
-* See [a video of the Amazing thins Spot can do](https://www.youtube.com/watch?v=wlkCQXHEgjA)
+* See [a video of the amazing things Spot can do](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
 ![Image of a Spot robot](Spot-robot.jpg) 
 
@@ -29,6 +29,13 @@ STRETCH
 
 ![Image of a Stretch robot](Stretch-robot.jpg) 
 
+
+Project for the future:
+
+ATLAS
+* 37 million people have seen [Atlas dancing](https://www.youtube.com/watch?v=fn3KWM1kuAw)
+* Atlas is a human shaped robot with the ability to both dance and do parkour 
+* If you want to know more about how and why, here is an [interesting and explanatory video](https://www.bostondynamics.com/atlas)
 
 
 

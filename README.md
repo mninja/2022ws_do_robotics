@@ -18,10 +18,16 @@ Representative Robot:
 
 SPOT 
 * Can navigate trough difficult terrain where it is hard for humans to enter
+* See [a video of the Amazing thins Spot can do](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
 ![Image of a Spot robot](Spot-robot.jpg) 
 
 
+STRETCH 
+* Robotic arm making automated warehouse handling more efficient
+* See [a video of Stretch at work](https://www.youtube.com/watch?v=yYUuWWnfRsk)
+
+![Image of a Stretch robot](Stretch-robot.jpg) 
 
 
 

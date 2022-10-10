@@ -74,17 +74,35 @@ Industrial Robots
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
 
 
-## wide range of applications: 
+## Industries Utilizing Robotics: :robot:
 
 * [Healtchcare sector](https://www.youtube.com/watch?v=ZM1GZSO7MYs)
     * Surgery robots 
-    * Therapy robots (like [Paro](https://www.youtube.com/watch?v=2ZUn9qtG8ow) for dementia)
+    * Therapy robots (like [Paro](https://www.youtube.com/watch?v=2ZUn9qtG8ow) for dementia; rehabilitation robots)
     * assistive robots 
     * social robots (e.g. humanoid robots [Pepper](https://www.youtube.com/watch?v=zJHyaD1psMc) or [NAO](https://www.youtube.com/watch?v=2STTNYNF4lk)) 
-* [Automotive Industry](https://www.youtube.com/watch?v=P7fi4hP_y80)
+* [Manufacturing e.g. Automotive Industry](https://www.youtube.com/watch?v=P7fi4hP_y80)
+    * consist mainly of mechanical arms tasked with pick and place (other examples: robotic welding machine, palletizing robot arm, automatic painting robot,...)
 * [Agriculture](https://www.youtube.com/watch?v=bd9JZXscOIE)
-* Electrical and electronics industry
-* [chemical industry](https://www.youtube.com/watch?v=dRT3tepdMyI)
+*  <span style="color: blue;">Military</span>
+    * Military robots use artificial intelligence for carrying out different tasks like picking off snipers, target acquisition, climbing ladders, operating in disaster situations, explosive ordnance disposal, search and rescue, fire fighting, and many more.
+
+* Further examples: 
+    * Aerospace
+    * Beverage
+    * Computers
+    * Consumer goods
+    * E-Commerce
+    * Electronics
+    * Food
+    * Grocery
+    * Hardware
+    * Liquor distribution
+    * Medical products
+    * Pharmaceutical
+    * Quality control and inspection
+    * Retail
+    * Warehousing and distribution
 
 ## References and Interesting Reads
 

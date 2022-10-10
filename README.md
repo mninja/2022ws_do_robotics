@@ -78,13 +78,13 @@ Industrial Robots
 
 * [Healtchcare sector](https://www.youtube.com/watch?v=ZM1GZSO7MYs)
     * Surgery robots 
-    * Therapy robots (like Paro for dementia)
+    * Therapy robots (like [Paro](https://www.youtube.com/watch?v=2ZUn9qtG8ow) for dementia)
     * assistive robots 
-    * social robots (e.g. Pepper) 
+    * social robots (e.g. humanoid robots [Pepper](https://www.youtube.com/watch?v=zJHyaD1psMc) or [NAO](https://www.youtube.com/watch?v=2STTNYNF4lk)) 
 * [Automotive Industry](https://www.youtube.com/watch?v=P7fi4hP_y80)
-* Agriculture 
+* [Agriculture](https://www.youtube.com/watch?v=bd9JZXscOIE)
 * Electrical and electronics industry
-* chemical industry
+* [chemical industry](https://www.youtube.com/watch?v=dRT3tepdMyI)
 
 ## References and Interesting Reads
 

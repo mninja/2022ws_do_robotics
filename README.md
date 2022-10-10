@@ -8,6 +8,14 @@ This is our repository.
 
 ### Boston Dynamics
 
+Website: [https://www.bostondynamics.com/](https://www.bostondynamics.com/)
+
+Headquarter: Waltham, Massachusetts, United States
+
+Size of Company (Nb of Employees): 500
+
+Representative Robot:
+
 ### Franka Emika
 
 Website: [https://www.franka.de/](https://www.franka.de/)

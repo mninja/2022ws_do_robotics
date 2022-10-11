@@ -103,6 +103,25 @@ Industrial Robots
     * Quality control and inspection
     * Retail
     * Warehousing and distribution
+    
+## Advantages of robots
+
+* In some situations, they can improve productivity, efficiency, quality, and consistency.
+* Robots, unlike humans, do not become bored.
+* They may continually repeat the same procedure till they wear out.
+* Robots can operate in hazardous conditions, such as with harmful chemicals or in places with high radiation.
+* They may be exceedingly exact, down to fractions of an inch, which makes them very valuable in the manufacture of microelectronics. Some robots have sensors and actuators that outperform humans.
+* They do not have the same physical or environmental demands as humans.
+
+
+## Disadvantages of robots
+
+*
+* 
+* 
+* 
+* 
+
 
 ## References and Interesting Reads
 

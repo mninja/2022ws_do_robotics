@@ -96,6 +96,28 @@ Founded In : 1988 ,Sweden
 
 ### Fanuc 
 
+* Website: [https://www.fanuc.eu/de/en/](https://www.fanuc.eu/de/en)
+* Headquarter: Oshino, Yamanashi, Japan
+* Size of Company (Nb of Employees): 8,256 employees
+* Revenue: 635.6 billion JPY (2019)
+
+
+FANUC Robotics offers over one hundred models of industrial robots. Renowned for their easy-to-use, versatile products, FANUC is a leader in innovation.
+
+Recently FANUC unveiled their new CRX series of cobots. These collaborative robotic arm units are streamlined with smart programming and highly-sensitive safety protocols, ensuring risk-free and straightforward
+programming and operation.
+
+FANUC is also well-known for their large and powerful M-2000iA series robotic arms. This “Ultra Heavy Payload” class has a working capacity of up to 2300 kg! Of course, they make arms of all sizes in between as well. Their Paint Series robotic arm uses a top-of-the-line hydraulic system that is powerful enough for automobile painting but delicate enough for smaller powder-coating jobs. Finally, their mid-range arms can do everything from pick-and-place to welding and machine tending. FANUC has a robot for virtually every automation need.
+
+* The product range of FANUC includes:
+
+    * Collaborative Robot
+    * Genkotsu-robot, Mini Robot
+    * Arc Welding Robot, Small/Medium Size Robot
+    * Large Size Robot
+    * Palletizing Robot, Others
+    * Paint Robot
+
 ### Kuka
 
 Website: [https://www.kuka.com/](https://www.kuka.com/)
@@ -168,6 +190,6 @@ Despite a number of advantages and downsides, one thing is certain: persons with
 
 ## References and Interesting Reads
 
-- Kiru, M. (2016). A Critical Review of the Challenges, Threats, and Drawbacks of Humanoid and Autonomous Robots. IRA-International Journal of Technology & Engineering (ISSN 2455-4480), 4(3), 135-150. doi:http://dx.doi.org/10.21013/jte.v4.n3.p2
+- FANUC | The Factory Automation Company - Fanuc. (n.d.). Retrieved October 11, 2022, from https://www.fanuc.eu/de/en
 
 -

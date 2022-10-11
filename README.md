@@ -116,11 +116,15 @@ Industrial Robots
 
 ## Disadvantages of robots
 
-*
-* 
-* 
-* 
-* 
+* Robots are displacing human workers in various areas, which might cause economic concerns.
+* Because of current robotics technology, most machines are less dexterous than humans and cannot compete with humans' capacity to comprehend what they perceive. But researchers are working on producing robots that can better detect their surroundings.
+* Overall, robots can only perform what they are taught to do, which means they cannot improvise (although AI and machine learning is changing this).
+* Robots with practical applications are typically costly in terms of original cost, maintenance, the requirement for additional components, and the need to be programmed to perform the task.
+* Legal  challenges  in  robots  have  been  a  topic  of  debate  for  many  decades.  As mentioned earlier someone  must be held  accountable for any  crime committed by robots.
+
+## Conclusion 
+
+
 
 
 ## References and Interesting Reads

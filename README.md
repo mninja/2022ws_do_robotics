@@ -4,6 +4,11 @@ This is the Robots DB, that the 2022 winter semester class of _Digital Organizat
 
 This is our repository.
 
+## What Is Robotics?
+
+Robotics is an engineering discipline that deals with the idea, design, construction, and operation of robots. The goal of robotics is to develop intelligent devices that can aid people in a number of ways.
+Robotics may take many different shapes. A robot can be human-like or take the shape of a robotic application, such as robotic process automation, which mimics how humans interact with software to conduct repetitive, rules-based activities.
+
 ## Producers
 
 ### Boston Dynamics

@@ -124,11 +124,13 @@ Industrial Robots
 
 ## Conclusion 
 
+Robots may be one of the greatest inventions ever, but we must utilise their power with prudence. Perhaps it is a good idea to have industrial robots that can reduce human danger, raise production, and increase profit. But it is insane to design or build anything that threatens the very existence of its creator. Although humanoid robots are still primarily confined to science fiction, robotic devices are all around us. These engineering marvels currently assist us in many aspects of life and have the potential to influence our future.
 
+Despite a number of advantages and downsides, one thing is certain: persons with robotics expertise will be in great demand in the future. There will almost certainly always be work in the field of robotics, whether it be designing, programming, or maintaining robots.
 
 
 ## References and Interesting Reads
 
--
+- Kiru, M. (2016). A Critical Review of the Challenges, Threats, and Drawbacks of Humanoid and Autonomous Robots. IRA-International Journal of Technology & Engineering (ISSN 2455-4480), 4(3), 135-150. doi:http://dx.doi.org/10.21013/jte.v4.n3.p2
 
 -

@@ -52,6 +52,38 @@ Headquarter:
 
 Size of Company (Nb of Employees): 
 
+---
+
+# ABB 
+
+![Logo ABB](ABB.png)
+
+Website: [https://new.abb.com/products/robotics](ABB)
+
+Headquarters: Zürich, Switzerland 
+Founded In : 1988 ,Sweden
+
+---
+
+## Products In Robotics and Automation:ABB
+    - Industrial Robots
+    - Collaborative Robots 
+    - Autonomous Mobile Robots
+    - Controllers
+    - Machine Automation Solutions 
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -82,7 +82,6 @@ Founded In : 1988 ,Sweden
   - Rapid Cycle Time Robots
 
 ---
-
 ## Articulated Robots:
 ABB’s comprehensive 6-axis articulated robot portfolio delivers the ideal solutions for use in material handling, machine tending, spot welding, arc welding, cutting, assembling, testing, inspecting, dispensing, grinding, and polishing applications.
 
@@ -105,8 +104,8 @@ Built using non-hazardous materials
  
 ## Collaborative Robots:
  ABB’s collaborative robots are made for a wide range of tasks, in operations of every size. They’re easy to set up, program, operate, and scale. Built by industry-leading experts. And serviced by the broadest service network in the industry. Whatever you need, we’re here to support every step of your automation journey.
- 
- ---
+
+---
 
 ## Paint Robots
 A complete range of paint robots to help you increase the productivity and quality of your paint shop operations. Designed for automotive interior & exterior painting, tiers, and general small & medium parts painting applications.

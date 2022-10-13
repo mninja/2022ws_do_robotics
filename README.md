@@ -17,7 +17,11 @@ Robotics may take many different shapes. A robot can be human-like or take the s
 * Fanuc 
 * Kuka
 
+---
+
 ### Boston Dynamics
+
+![Logo Boston Dynamics](bostondynamics.jpg) 
 
 Website: [https://www.bostondynamics.com/](https://www.bostondynamics.com/)
 
@@ -170,6 +174,7 @@ Representative Robot:
 Industrial Robots 
 * different robot types depending on payload (kg) and reach (mm)
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
+
 
 
 ## Industries Utilizing Robotics: :robot:

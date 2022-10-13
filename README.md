@@ -10,6 +10,12 @@ Robotics is an engineering discipline that deals with the idea, design, construc
 Robotics may take many different shapes. A robot can be human-like or take the shape of a robotic application, such as robotic process automation, which mimics how humans interact with software to conduct repetitive, rules-based activities.
 
 ## Producers
+* Boston Dynamics
+* Franka Emika
+* ABB 
+* Horst
+* Fanuc 
+* Kuka
 
 ### Boston Dynamics
 
@@ -42,7 +48,7 @@ ATLAS
 * Atlas is a human shaped robot with the ability to both dance and do parkour 
 * If you want to know more about how and why, here is an [interesting and explanatory video](https://www.bostondynamics.com/atlas)
 
-
+---
 
 ### Franka Emika
 
@@ -147,6 +153,9 @@ FANUC is also well-known for their large and powerful M-2000iA series robotic ar
     * Large Size Robot
     * Palletizing Robot, Others
     * Paint Robot
+
+
+--- 
 
 ### Kuka
 

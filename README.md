@@ -69,13 +69,11 @@ ATLAS
 ### Franka Emika
 
 
-Website: [https://www.franka.de/](https://www.franka.de/)
-
-Headquarter: Munich, Germany
-
-Founded In: 2017
-
-Size of Company (Nb of Employees): < 125
+* Website: [https://www.franka.de/](https://www.franka.de/)
+* Headquarter: Munich, Germany
+* Founded In: 2017
+* Size of Company (Nb of Employees): < 125
+* Revenue: 10.73 Million Euro (2019)
 
 Representative Robot:
 

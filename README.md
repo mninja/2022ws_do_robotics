@@ -17,7 +17,9 @@ In the 1950s, inventor George Devol and engineer Joseph Engelberger developed *U
 
 In 1961, this robotic arm was used in General Motors production. The machine performed the task of transporting die-cast parts from an assembly line and then welding these parts to car bodies. Additionally, *Unimate* was also able of pouring drinks. How multifunctional the robot could be used can be seen in this [video](https://www.youtube.com/watch?v=hxsWeVtb-JQ).
 
-In the following years other Robots were developed that were used in the automotive industry. In 1973, Kuka, a company from Augsburg, launched the first six-axis, purely electrically operated robot. A year later, the Swedish company Asea, now ABB, followed with a robotic arm that was programmed with a computer for the first time. In the subsequent two decades, besides Kuka and ABB, manufacturers such as Fanuc and Yaskawa established themselves in the robot market. 
+In the following years other Robots were developed that were used in the automotive industry. In 1973, Kuka, a company from Augsburg, launched the first six-axis, purely electrically operated robot. A year later, the Swedish company Asea, now ABB, followed with a robotic arm that was programmed with a computer for the first time. In the subsequent two decades, besides Kuka and ABB, manufacturers such as Fanuc and Yaskawa established themselves in the robot market.
+
+#### The emergence of Cobots
 
 ## Producers
 * Boston Dynamics

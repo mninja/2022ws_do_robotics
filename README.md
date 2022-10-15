@@ -12,7 +12,9 @@ Robotics may take many different shapes. A robot can be human-like or take the s
 ## History and Development of Robotic
 
 In the 1950s, inventor George Devol and engineer Joseph Engelberger developed *Unimate*, the first industrial robot. In the patent for "Programmed Article Transfer", which was granted in 1961, it reads as follows:
+
 "The present invention relates to the automatic operation of machinery, particularly the handling apparatus, and to automatic control apparatus suited for such machinery."
+
 In 1961, this robotic arm was used in General Motors production. The machine performed the task of transporting die-cast parts from an assembly line and then welding these parts to car bodies. Additionally, *Unimate* was also able of pouring drinks. How multifunctional the robot could be used can be seen in this [video](https://www.youtube.com/watch?v=hxsWeVtb-JQ).
 
 ## Producers

@@ -75,7 +75,9 @@ Size of Company (Nb of Employees): < 125
 
 Representative Robot:
 
-#### Franka Production 3
+Franka Production 3
+* characterized by its high flexibility, since it has seven axes
+* capable of lifting 3 kg and has a reach of 833 mm
 ---
 
 # ABB 
@@ -226,7 +228,9 @@ Industrial Robots
 * In some situations, they can improve productivity, efficiency, quality, and consistency.
 * Robots, unlike humans, do not become bored.
 * They may continually repeat the same procedure till they wear out.
+* Robots can be used to perform monotonous work, giving humans more time to focus on critical aspects or creative tasks. 
 * Robots can operate in hazardous conditions, such as with harmful chemicals or in places with high radiation.
+* Robots can also work in extreme environments, whether underwater, in extreme heat, in wind, or even in space. And they can be used wherever human safety is at risk.
 * They may be exceedingly exact, down to fractions of an inch, which makes them very valuable in the manufacture of microelectronics. Some robots have sensors and actuators that outperform humans.
 * They do not have the same physical or environmental demands as humans.
 

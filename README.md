@@ -64,6 +64,8 @@ ATLAS
 
 ### Franka Emika
 
+![Logo Franka Emika Logo](frankaemika.jpeg) 
+
 Website: [https://www.franka.de/](https://www.franka.de/)
 
 Headquarter: Munich, Germany

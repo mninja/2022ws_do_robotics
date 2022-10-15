@@ -9,13 +9,15 @@ This is our repository.
 Robotics is an engineering discipline that deals with the idea, design, construction, and operation of robots. The goal of robotics is to develop intelligent devices that can aid people in a number of ways.
 Robotics may take many different shapes. A robot can be human-like or take the shape of a robotic application, such as robotic process automation, which mimics how humans interact with software to conduct repetitive, rules-based activities.
 
-## History and Development of Robotic
+## History and Development of Robots
 
 In the 1950s, inventor George Devol and engineer Joseph Engelberger developed *Unimate*, the first industrial robot. In the patent for "Programmed Article Transfer", which was granted in 1961, it reads as follows:
 
 "The present invention relates to the automatic operation of machinery, particularly the handling apparatus, and to automatic control apparatus suited for such machinery."
 
 In 1961, this robotic arm was used in General Motors production. The machine performed the task of transporting die-cast parts from an assembly line and then welding these parts to car bodies. Additionally, *Unimate* was also able of pouring drinks. How multifunctional the robot could be used can be seen in this [video](https://www.youtube.com/watch?v=hxsWeVtb-JQ).
+
+In the following years other Robots were developed that were used in the automotive industry. In 1973, Kuka, a company from Augsburg, launched the first six-axis, purely electrically operated robot. A year later, the Swedish company Asea, now ABB, followed with a robotic arm that was programmed with a computer for the first time. In the subsequent two decades, besides Kuka and ABB, manufacturers such as Fanuc and Yaskawa established themselves in the robot market. 
 
 ## Producers
 * Boston Dynamics
@@ -238,9 +240,11 @@ Industrial Robots
 ## Disadvantages of robots
 
 * Robots are displacing human workers in various areas, which might cause economic concerns.
+* Robots can exclusively handle tasks, but they usually cannot deal with unexpected situations.
 * Because of current robotics technology, most machines are less dexterous than humans and cannot compete with humans' capacity to comprehend what they perceive. But researchers are working on producing robots that can better detect their surroundings.
 * Overall, robots can only perform what they are taught to do, which means they cannot improvise (although AI and machine learning is changing this).
 * Robots with practical applications are typically costly in terms of original cost, maintenance, the requirement for additional components, and the need to be programmed to perform the task.
+* Robots have no emotions and have no conscience. As a result, empathy in the workplace decreases.
 * Legal  challenges  in  robots  have  been  a  topic  of  debate  for  many  decades.  As mentioned earlier someone  must be held  accountable for any  crime committed by robots.
 
 ## Conclusion 

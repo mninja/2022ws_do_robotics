@@ -78,8 +78,13 @@ ATLAS
 Representative Robot:
 
 Franka Production 3
-* characterized by its high flexibility, since it has seven axes
-* capable of lifting 3 kg and has a reach of 833 mm
+
+* The Cobot is fully TÜV certified, thus, suitable for industry.
+* The product consists of a gripper arm and the associated app.
+* The robot characterized by its high flexibility, since it has seven axes and is equipped with more than a hundred different sensors.
+* It is capable of lifting 3 kg and has a reach of 833 mm.
+* The product is mainly implemented in areas of process automation of industrial production.
+
 ---
 
 # ABB 

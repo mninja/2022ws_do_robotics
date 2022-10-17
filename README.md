@@ -25,7 +25,7 @@ In the following years other Robots were developed that were used in the automot
 * Boston Dynamics
 * Franka Emika
 * ABB 
-* Horst
+* fruitcore robotics
 * Fanuc 
 * Kuka
 
@@ -84,6 +84,8 @@ Franka Production 3
 * The robot characterized by its high flexibility, since it has seven axes and is equipped with more than a hundred different sensors.
 * It is capable of lifting 3 kg and has a reach of 833 mm.
 * The product is mainly implemented in areas of process automation of industrial production.
+
+![Image of Franka Production 3](Franka.png)
 
 ---
 
@@ -155,7 +157,18 @@ Quick, precise, and reliable, ABB’s SCARA robots are ideal for customers requi
 
 ---
 
-### Horst
+### fruitcore robotics
+
+* Website: [https://fruitcore-robotics.com/]
+* Headquarter: Konstanz, Germany
+* Size of the Company (Nb of Employees): approximately 100
+
+Representative Robot:
+
+HORST1400
+
+* 
+
 
 ### Fanuc 
 

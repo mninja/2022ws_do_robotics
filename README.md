@@ -203,7 +203,7 @@ Industrial Robots
 ## Industries Utilizing Robotics: :robot:
 
 * [Healtchcare sector](https://www.youtube.com/watch?v=ZM1GZSO7MYs)
-    * Surgery robots 
+    * Surgery robots (like [da Vinci Xi](https://www.youtube.com/watch?v=H4WzUSq9OeY))
     * Therapy robots (like [Paro](https://www.youtube.com/watch?v=2ZUn9qtG8ow) for dementia; rehabilitation robots)
     * assistive robots 
     * social robots (e.g. humanoid robots [Pepper](https://www.youtube.com/watch?v=zJHyaD1psMc) or [NAO](https://www.youtube.com/watch?v=2STTNYNF4lk)) 
@@ -211,7 +211,7 @@ Industrial Robots
     * consist mainly of mechanical arms tasked with pick and place (other examples: robotic welding machine, palletizing robot arm, automatic painting robot,...)
 * [Agriculture](https://www.youtube.com/watch?v=bd9JZXscOIE)
     * In agriculture, robots are mainly used for harvesting and picking. The advantages of robots are that they work particularly quickly and accurately. Consequently, they contribute to improving harvest yields and reducing fruit wastage.
-*  <span style="color: blue;">Military</span>
+*  [Military](https://www.youtube.com/watch?v=uXGj1kZnFEg)
     * Military robots use artificial intelligence for carrying out different tasks like picking off snipers, target acquisition, climbing ladders, operating in disaster situations, explosive ordnance disposal, search and rescue, fire fighting, and many more.
 
 * Further examples: 

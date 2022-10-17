@@ -167,7 +167,10 @@ Representative Robot:
 
 HORST1400
 
-* 
+The Horst1400 is a six-axis industrial robot. The product is easy to use and very powerful. Due to a developed drive concept, which is based on a four link chain, promises the balance between the reach and the payload of the robot.
+The Horst1400 is particularly suitable for applications in logistics, transport and processing of plastic or metal parts and other tasks that require high absolute and repeat accuracy.
+
+![Picture of Horst 1400](Horst1400.jpeg)
 
 
 ### Fanuc 

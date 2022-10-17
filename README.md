@@ -210,6 +210,7 @@ Industrial Robots
 * [Manufacturing e.g. Automotive Industry](https://www.youtube.com/watch?v=P7fi4hP_y80)
     * consist mainly of mechanical arms tasked with pick and place (other examples: robotic welding machine, palletizing robot arm, automatic painting robot,...)
 * [Agriculture](https://www.youtube.com/watch?v=bd9JZXscOIE)
+    * In agriculture, robots are mainly used for harvesting and picking. The advantages of robots are that they work particularly quickly and accurately. Consequently, they contribute to improving harvest yields and reducing fruit wastage.
 *  <span style="color: blue;">Military</span>
     * Military robots use artificial intelligence for carrying out different tasks like picking off snipers, target acquisition, climbing ladders, operating in disaster situations, explosive ordnance disposal, search and rescue, fire fighting, and many more.
 

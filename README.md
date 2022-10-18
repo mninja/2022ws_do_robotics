@@ -133,6 +133,16 @@ ARB 8700:Flagship Model
 ![Picture of ABB IRB 8700](ABB_8700.png)
 [![IMAGE_ALT](ABB_8700.png)](https://www.youtube.com/watch?v=cVaFG9kSksU)
 
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/cVaFG9kSksU"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 Features and benefits:
 High payloads up to 1000 kg with the wrist down
 25% faster speeds than other robots in this size class

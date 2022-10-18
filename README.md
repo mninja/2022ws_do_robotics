@@ -126,9 +126,12 @@ Its Payload Capacities Range From 4 Kgs to 800 Kgs
 
 And Reach Of Arm Ranges From 0.58 Meters to 4.2 Meters In Length 
 
+---
+
 ARB 8700:Flagship Model
 
 ![Picture of ABB IRB 8700](ABB_8700.png)
+[![IMAGE_ALT](ABB_8700.png)](https://www.youtube.com/watch?v=cVaFG9kSksU)
 
 Features and benefits:
 High payloads up to 1000 kg with the wrist down
@@ -138,6 +141,7 @@ Built around LeanID for reduced wear on dress packs and ease of simulation
 Built using non-hazardous materials
 
 ---
+
  
 ## Collaborative Robots:
  ABB’s collaborative robots are made for a wide range of tasks, in operations of every size. They’re easy to set up, program, operate, and scale. Built by industry-leading experts. And serviced by the broadest service network in the industry. Whatever you need, we’re here to support every step of your automation journey.
@@ -156,6 +160,7 @@ ABB’s Delta robot portfolio is the leader in state-of-the-art high-speed robot
 
 ## Rapid Cycle Time Robots
 Quick, precise, and reliable, ABB’s SCARA robots are ideal for customers requiring rapid cycle times, high precision, and high reliability for material handling, loading & unloading, picking & placing, and small part assembly & testing applications.
+
 
 ---
 

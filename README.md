@@ -130,6 +130,7 @@ And Reach Of Arm Ranges From 0.58 Meters to 4.2 Meters In Length
 
 ARB 8700:Flagship Model
 
+![Picture of ABB IRB 8700](ABB_8700.png)
 [![IMAGE_ALT](ABB_8700.png)](https://www.youtube.com/watch?v=cVaFG9kSksU)
 
 <iframe
@@ -198,7 +199,7 @@ The Horst1400 is particularly suitable for applications in logistics, transport 
 * Revenue: 635.6 billion JPY (2019)
 
 
-![Image of a Stretch robot](https://www.fanucamerica.com/images/default-source/robot-images/robots-by-model/robot-series-pages/pal-line-upe2c112e63432442b8cb1ac29b3e65c42.png?sfvrsn=5f4f111c_2) 
+![Image of diffrent type of Fanuc robots](https://www.fanucamerica.com/images/default-source/robot-images/robots-by-model/robot-series-pages/pal-line-upe2c112e63432442b8cb1ac29b3e65c42.png?sfvrsn=5f4f111c_2) 
 FANUC Robotics offers over one hundred models of industrial robots. Renowned for their easy-to-use, versatile products, FANUC is a leader in innovation.
 
 Recently FANUC unveiled their new CRX series of cobots. These collaborative robotic arm units are streamlined with smart programming and highly-sensitive safety protocols, ensuring risk-free and straightforward

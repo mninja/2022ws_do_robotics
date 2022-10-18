@@ -1,4 +1,4 @@
-# Robots db
+# Robots DB
 
 This is the Robots DB, that the 2022 winter semester class of _Digital Organization, Automation & Technology_ at [CBS International Business School](https://cbs.de) has put together.
 
@@ -27,7 +27,7 @@ A __cobot__ is an industrial robot that is designed to work together with humans
 * Boston Dynamics
 * Franka Emika
 * ABB 
-* fruitcore robotics
+* Fruitcore robotics
 * Fanuc 
 * Kuka
 
@@ -159,7 +159,7 @@ Quick, precise, and reliable, ABB’s SCARA robots are ideal for customers requi
 
 ---
 
-### fruitcore robotics
+### Fruitcore robotics
 
 * Website: [https://fruitcore-robotics.com/]
 * Headquarter: Konstanz, Germany
@@ -174,6 +174,7 @@ The Horst1400 is particularly suitable for applications in logistics, transport 
 
 ![Picture of Horst 1400](Horst1400.jpeg)
 
+---
 
 ### Fanuc 
 
@@ -277,6 +278,8 @@ Robots may be one of the greatest inventions ever, but we must utilise their pow
 
 Despite a number of advantages and downsides, one thing is certain: persons with robotics expertise will be in great demand in the future. There will almost certainly always be work in the field of robotics, whether it be designing, programming, or maintaining robots.
 
+
+---
 
 ## References and Interesting Reads
 

@@ -199,6 +199,7 @@ The Horst1400 is particularly suitable for applications in logistics, transport 
 * Revenue: 635.6 billion JPY (2019)
 
 
+![Image of a Stretch robot](https://www.fanucamerica.com/images/default-source/robot-images/robots-by-model/robot-series-pages/pal-line-upe2c112e63432442b8cb1ac29b3e65c42.png?sfvrsn=5f4f111c_2) 
 FANUC Robotics offers over one hundred models of industrial robots. Renowned for their easy-to-use, versatile products, FANUC is a leader in innovation.
 
 Recently FANUC unveiled their new CRX series of cobots. These collaborative robotic arm units are streamlined with smart programming and highly-sensitive safety protocols, ensuring risk-free and straightforward

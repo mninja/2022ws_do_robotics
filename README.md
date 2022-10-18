@@ -130,7 +130,6 @@ And Reach Of Arm Ranges From 0.58 Meters to 4.2 Meters In Length
 
 ARB 8700:Flagship Model
 
-![Picture of ABB IRB 8700](ABB_8700.png)
 [![IMAGE_ALT](ABB_8700.png)](https://www.youtube.com/watch?v=cVaFG9kSksU)
 
 <iframe

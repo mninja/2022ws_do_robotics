@@ -24,70 +24,13 @@ In the following years other Robots were developed that were used in the automot
 A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__.
 
 ## Producers
-* Boston Dynamics
-* Franka Emika
+
 * ABB 
-* Fruitcore robotics
+* Boston Dynamics
 * Fanuc 
+* Franka Emika
+* Fruitcore robotics
 * Kuka
-
----
-
-### Boston Dynamics
-
-![Logo Boston Dynamics](bostondynamics.jpg) 
-
-Website: [https://www.bostondynamics.com/](https://www.bostondynamics.com/)
-
-Headquarter: Waltham, Massachusetts, United States
-
-Size of Company (Nb of Employees): 500
-
-Representative Robot:
-
-SPOT 
-* Can navigate trough difficult terrain where it is hard for humans to enter
-* See [a video of the amazing things Spot can do](https://www.youtube.com/watch?v=wlkCQXHEgjA)
-
-![Image of a Spot robot](Spot-robot.jpg) 
-
-
-STRETCH 
-* Robotic arm making automated warehouse handling more efficient
-* See [a video of Stretch at work](https://www.youtube.com/watch?v=yYUuWWnfRsk)
-
-![Image of a Stretch robot](Stretch-robot.jpg) 
-
-
-Project for the future:
-
-ATLAS
-* 37 million people have seen [Atlas dancing](https://www.youtube.com/watch?v=fn3KWM1kuAw)
-* Atlas is a human shaped robot with the ability to both dance and do parkour 
-* If you want to know more about how and why, here is an [interesting and explanatory video](https://www.bostondynamics.com/atlas)
-
----
-
-### Franka Emika
-
-
-* Website: [https://www.franka.de/](https://www.franka.de/)
-* Headquarter: Munich, Germany
-* Founded In: 2017
-* Size of Company (Nb of Employees): < 125
-* Revenue: 10.73 Million Euro (2019)
-
-Representative Robot:
-
-Franka Production 3
-
-* The Cobot is fully TÜV certified, thus, suitable for industry.
-* The product consists of a gripper arm and the associated app.
-* The robot characterized by its high flexibility, since it has seven axes and is equipped with more than a hundred different sensors.
-* It is capable of lifting 3 kg and has a reach of 833 mm.
-* The product is mainly implemented in areas of process automation of industrial production.
-
-![Image of Franka Production 3](Franka.png)
 
 ---
 
@@ -174,20 +117,38 @@ Quick, precise, and reliable, ABB’s SCARA robots are ideal for customers requi
 
 ---
 
-### Fruitcore robotics
+### Boston Dynamics
 
-* Website: [https://fruitcore-robotics.com/]
-* Headquarter: Konstanz, Germany
-* Size of the Company (Nb of Employees): approximately 100
+![Logo Boston Dynamics](bostondynamics.jpg) 
+
+Website: [https://www.bostondynamics.com/](https://www.bostondynamics.com/)
+
+Headquarter: Waltham, Massachusetts, United States
+
+Size of Company (Nb of Employees): 500
 
 Representative Robot:
 
-HORST1400
+SPOT 
+* Can navigate trough difficult terrain where it is hard for humans to enter
+* See [a video of the amazing things Spot can do](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
-The Horst1400 is a six-axis industrial robot. The product is easy to use and very powerful. Due to a developed drive concept, which is based on a four link chain, promises the balance between the reach and the payload of the robot.
-The Horst1400 is particularly suitable for applications in logistics, transport and processing of plastic or metal parts and other tasks that require high absolute and repeat accuracy.
+![Image of a Spot robot](Spot-robot.jpg) 
 
-![Picture of Horst 1400](Horst1400.jpeg)
+
+STRETCH 
+* Robotic arm making automated warehouse handling more efficient
+* See [a video of Stretch at work](https://www.youtube.com/watch?v=yYUuWWnfRsk)
+
+![Image of a Stretch robot](Stretch-robot.jpg) 
+
+
+Project for the future:
+
+ATLAS
+* 37 million people have seen [Atlas dancing](https://www.youtube.com/watch?v=fn3KWM1kuAw)
+* Atlas is a human shaped robot with the ability to both dance and do parkour 
+* If you want to know more about how and why, here is an [interesting and explanatory video](https://www.bostondynamics.com/atlas)
 
 ---
 
@@ -219,6 +180,46 @@ FANUC is also well-known for their large and powerful M-2000iA series robotic ar
 
 --- 
 
+### Franka Emika
+
+
+* Website: [https://www.franka.de/](https://www.franka.de/)
+* Headquarter: Munich, Germany
+* Founded In: 2017
+* Size of Company (Nb of Employees): < 125
+* Revenue: 10.73 Million Euro (2019)
+
+Representative Robot:
+
+Franka Production 3
+
+* The Cobot is fully TÜV certified, thus, suitable for industry.
+* The product consists of a gripper arm and the associated app.
+* The robot characterized by its high flexibility, since it has seven axes and is equipped with more than a hundred different sensors.
+* It is capable of lifting 3 kg and has a reach of 833 mm.
+* The product is mainly implemented in areas of process automation of industrial production.
+
+![Image of Franka Production 3](Franka.png)
+
+
+
+### Fruitcore robotics
+
+* Website: [https://fruitcore-robotics.com/]
+* Headquarter: Konstanz, Germany
+* Size of the Company (Nb of Employees): approximately 100
+
+Representative Robot:
+
+HORST1400
+
+The Horst1400 is a six-axis industrial robot. The product is easy to use and very powerful. Due to a developed drive concept, which is based on a four link chain, promises the balance between the reach and the payload of the robot.
+The Horst1400 is particularly suitable for applications in logistics, transport and processing of plastic or metal parts and other tasks that require high absolute and repeat accuracy.
+
+![Picture of Horst 1400](Horst1400.jpeg)
+
+---
+
 ### Kuka
 
 Website: [https://www.kuka.com/](https://www.kuka.com/)
@@ -233,7 +234,7 @@ Industrial Robots
 * different robot types depending on payload (kg) and reach (mm)
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
 
-
+---
 
 ## Industries Utilizing Robotics: :robot:
 

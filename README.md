@@ -212,6 +212,8 @@ Franka Production 3
 
 ### Fruitcore robotics
 
+![Logo Futicore](futicore_robotics_logo.jpg) 
+
 * Website: [https://fruitcore-robotics.com/]
 * Headquarter: Konstanz, Germany
 * Size of the Company (Nb of Employees): approximately 100
@@ -228,6 +230,8 @@ The Horst1400 is particularly suitable for applications in logistics, transport 
 ---
 
 ### Kuka
+
+![Logo Kuka](Kuka_logo.jpg) 
 
 Website: [https://www.kuka.com/](https://www.kuka.com/)
 

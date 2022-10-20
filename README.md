@@ -25,12 +25,16 @@ A __cobot__ is an industrial robot that is designed to work together with humans
 
 ## Producers
 
+Some of the major robot producers are:
+
 * ABB 
 * Boston Dynamics
 * Fanuc 
 * Franka Emika
 * Fruitcore robotics
 * Kuka
+
+Below you can read more about the different producers.
 
 ---
 
@@ -154,6 +158,8 @@ ATLAS
 
 ### Fanuc 
 
+![Logo Fanuc](fanuc-logo.jpg) 
+
 * Website: [https://www.fanuc.eu/de/en/](https://www.fanuc.eu/de/en)
 * Headquarter: Oshino, Yamanashi, Japan
 * Size of Company (Nb of Employees): 8,256 employees
@@ -182,6 +188,7 @@ FANUC is also well-known for their large and powerful M-2000iA series robotic ar
 
 ### Franka Emika
 
+![Logo Franka Emika](1-franka-emika.jpg) 
 
 * Website: [https://www.franka.de/](https://www.franka.de/)
 * Headquarter: Munich, Germany

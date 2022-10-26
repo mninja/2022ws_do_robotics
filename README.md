@@ -281,6 +281,8 @@ Industrial Robots
 ## Application of robots in agriculture 
 
 Robots in agriculture help improve both productivity and sustainability. They can specialize by for example only spraying plants that need pesticides with pesticides, and leave the nearby plants alone. They also improve the working conditions for the farmers. 
+
+Robots can be used for harvesting fruits, [like this robot picking grapes](https://www.youtube.com/watch?v=hVvs6_Wx2HM). Or for collecting information, [for example differentiating weeds form corns](https://www.youtube.com/watch?v=eof99XfoFfY). 
     
 ## Advantages of robots
 

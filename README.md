@@ -288,7 +288,7 @@ When it comes to research and development some of the [Robotnik](https://robotni
 
 According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry) the top 10 Applications of Robotis agriculture is: 
 
-1. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k).
+1. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k)
 2. Crop Seeding: [with high precision.](https://www.youtube.com/watch?v=OoUGSb-ASTc)
 3. Crop monitoring and Analysis: [being able to look at every single plant.](https://www.youtube.com/watch?v=STlXFht8-5w)
 4. Fertilizing and Irrigation: [simple but helpful Cron Fertilizing robot.](https://www.youtube.com/watch?v=STlXFht8-5w)

@@ -280,9 +280,13 @@ Industrial Robots
 
 ## Application of robots in agriculture 
 
-Robots in agriculture help improve both productivity and sustainability. They can specialize by for example only spraying plants that need pesticides with pesticides, and leave the nearby plants alone. They also improve the working conditions for the farmers. 
+Robots in agriculture help improve both productivity and sustainability. They can specialize by for example only spraying plants that need pesticides with pesticides, and leave the nearby plants alone[like this](https://www.youtube.com/watch?v=Qg9Zubc7lok). They also improve the working conditions for the farmers. 
 
 Robots can be used for harvesting fruits, [like this robot picking grapes](https://www.youtube.com/watch?v=hVvs6_Wx2HM). Or for collecting information, [for example differentiating weeds form corns](https://www.youtube.com/watch?v=eof99XfoFfY). 
+
+When it comes to research and development some of the [Robotnik](https://robotnik.eu/robotics-applications-in-agriculture/) projects are BACCHUS, AGROBOFOOD and CORSECT. Where Bacchus has the ability to both collet data and do harvesting at the same time. While Agrobofood aims do create a digital transformation in the agricultural sector. Corsect on the other hand works on optimizing insect production. 
+
+
     
 ## Advantages of robots
 
@@ -319,4 +323,4 @@ Despite a number of advantages and downsides, one thing is certain: persons with
 
 - FANUC | The Factory Automation Company - Fanuc. (n.d.). Retrieved October 11, 2022, from https://www.fanuc.eu/de/en
 
--
+- Robotnik | Robotics applications in agriculture. Retrieved October 26, 2022, from https://robotnik.eu/robotics-applications-in-agriculture/

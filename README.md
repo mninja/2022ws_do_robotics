@@ -277,6 +277,10 @@ Industrial Robots
     * Quality control and inspection
     * Retail
     * Warehousing and distribution
+
+## Application of robots in agriculture 
+
+Robots in agriculture help improve both productivity and sustainability. They can specialize by for example only spraying plants that need pesticides with pesticides, and leave the nearby plants alone. They also improve the working conditions for the farmers. 
     
 ## Advantages of robots
 

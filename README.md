@@ -310,9 +310,7 @@ Industrial Robots
 * __Nursing Robots__
     * The use of robots in care is much more diverse. There are care robots such as Pepper, which communicates with people in need of care as a humanoid robot *(social robot)* and makes their daily lives easier and can also mentally activate its counterpart. Furthermore, care robots *(collaborative)* are used for heavy physical activities in care, such as turning or changing the position of patients, in order to spare the nursing staff. In addition to relieving the physical strain, the use of such robots also requires fewer nursing staff due to increased efficiency.
     * ![Image of Robot Pepper during interaction with patients](nursing_robot_pepper.jpeg)
-
-
-
+    * ![Image of Robobear RIKEN](Riken_Robear.jpg)
 
 
 

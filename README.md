@@ -278,6 +278,26 @@ Industrial Robots
     * Retail
     * Warehousing and distribution
 
+## Application of robots in the healthcare sector 
+
+* __Surgical-Assistance Robots__
+    * Surgical assist robots support surgeons performing complex operations using AI and computer vision-enabled technologies, thereby achieving new levels of speed and accuracy. The ability to use video transmission from the operating room to other locations nearby or far away also allows surgeons to consult with other specialists in their field. This allows patients to include the best surgeons in their procedures and increases the quality of care patients receive. Some surgical robots may even be able to perform tasks autonomously, allowing surgeons to monitor procedures from a console.
+    * Currently, surgical assistance robots are mainly used in orthopedic surgery and for minimally invasive operations in the upper body. 
+    [watch surgical robots in action](https://www.youtube.com/watch?v=2fnv_3qn3Yc)
+
+* __Modular Robots__
+    * Modular robots complement other systems and can be configured to perform different tasks and assist in rehabilitation, for example.  In healthcare, these include therapeutic exoskeleton robots and prosthetic robotic arms and legs.
+
+* __Nursing Robots__
+    * The use of robots in care is much more diverse. There are care robots such as Pepper, which communicates with people in need of care as a humanoid robot *(social robot)* and makes their daily lives easier and can also mentally activate its counterpart. Furthermore, care robots *(collaborative)* are used for heavy physical activities in care, such as turning or changing the position of patients, in order to spare the nursing staff. In addition to relieving the physical strain, the use of such robots also requires fewer nursing staff due to increased efficiency.
+    * ![Image of Robot Pepper during interaction with patients](nursing_robot_pepper.jpeg)
+
+
+
+
+
+
+
 ## Application of robots in agriculture 
 
 Robots in agriculture help improve both productivity and sustainability. They can specialize by for example only spraying plants that need pesticides with pesticides, and leave the nearby plants alone, [like this](https://www.youtube.com/watch?v=Qg9Zubc7lok). They also improve the working conditions for the farmers. 

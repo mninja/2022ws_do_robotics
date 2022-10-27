@@ -245,7 +245,7 @@ Industrial Robots
 * different robot types depending on payload (kg) and reach (mm)
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
 
-![Image of Industry robots KUKA](industry_KUKA)
+![Image of Industry robots KUKA](industry_KUKA.png)
 
 ---
 

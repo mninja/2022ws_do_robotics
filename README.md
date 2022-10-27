@@ -245,6 +245,8 @@ Industrial Robots
 * different robot types depending on payload (kg) and reach (mm)
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
 
+![Image of Industry robots KUKA](industry_KUKA)
+
 ---
 
 ## Industries Utilizing Robotics: :robot:
@@ -284,6 +286,23 @@ Industrial Robots
     * Surgical assist robots support surgeons performing complex operations using AI and computer vision-enabled technologies, thereby achieving new levels of speed and accuracy. The ability to use video transmission from the operating room to other locations nearby or far away also allows surgeons to consult with other specialists in their field. This allows patients to include the best surgeons in their procedures and increases the quality of care patients receive. Some surgical robots may even be able to perform tasks autonomously, allowing surgeons to monitor procedures from a console.
     * Currently, surgical assistance robots are mainly used in orthopedic surgery and for minimally invasive operations in the upper body. 
     [watch surgical robots in action](https://www.youtube.com/watch?v=2fnv_3qn3Yc)
+
+    * __Da Vinci Systems__ for minimal invasive operations: 
+        * translates your surgeon’s hand movements at the console in real time, bending and rotating the instruments while performing the procedure. 
+        * contains tiny wristed instruments which makes it possible for surgeons to operate through one or a few small incisions. Furthermore these tiny instruments move like a human hand, but with a greater range of motion. 
+        * delivers highly magnified, 3D high-definition views of the surgical area.
+        * contains of three components 
+        ![Image of components of da vinci system](da_Vinci_system_components)
+
+    * Top robotic surgery comapnies in the U.S.  
+        1. Intuitive Surgical
+        2. Stryker
+        3. Smith & Nephew
+        4. Accuray
+        5. Medtronic
+        6. Globus Medical
+        7. Johnson & Johnson
+        8. Zimmer Biomet
 
 * __Modular Robots__
     * Modular robots complement other systems and can be configured to perform different tasks and assist in rehabilitation, for example.  In healthcare, these include therapeutic exoskeleton robots and prosthetic robotic arms and legs.

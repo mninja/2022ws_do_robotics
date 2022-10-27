@@ -292,7 +292,7 @@ Industrial Robots
         * contains tiny wristed instruments which makes it possible for surgeons to operate through one or a few small incisions. Furthermore these tiny instruments move like a human hand, but with a greater range of motion. 
         * delivers highly magnified, 3D high-definition views of the surgical area.
         * contains of three components 
-        ![Image of components of da vinci system](da_Vinci_system_components)
+        ![Image of components of da vinci system](da_Vinci_system_components.png)
 
     * Top robotic surgery comapnies in the U.S.  
         1. Intuitive Surgical

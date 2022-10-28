@@ -360,16 +360,20 @@ Articulated robotic arms look like multi-jointed limbs and are used to handle pr
 ### What are benefits of warehouse robots?
 
 1. Increased productivity and efficiency
+
 By using robots in the warehouse, work becomes far faster and more efficient. For example, warehouse workers can stay at the picking stations and wait for the AS/RS and conveyors to bring them the goods for order assembly. As a result, they don't need to run around the warehouse looking for the items they need.
 
 2. Increased accuracy in workflows
+
 If goods are managed manually, there is an increased risk of error - for instance, putting an item in the wrong place or putting together an order without the appropriate item - which can cause high costs in the company. Robots, by contrast, follow the instructions of the management software regarding the handling, picking and sorting of goods. Consequently, a high level of accuracy is ensured in order handling and warehousing.
 
-3. Collaboration with warehouse workers.
+3. Collaboration with warehouse workers
+
 Robots facilitate warehouse workers' routine tasks and help them be more efficient. For example, these machines can move large volumes of goods without any problems, allowing the warehouse worker to focus on other tasks with higher added value.
 
 4. Increased Safety
-Handling of goods is associated with an increased risk of accidents, especially with heavy loads or when handling in uncomfortable positions and performing repetitive motions. Robots perform various tasks accurately and without the risk of accidents
+
+Handling of goods is associated with an increased risk of accidents, especially with heavy loads or when handling in uncomfortable positions and performing repetitive motions. Robots perform various tasks accurately and without the risk of accidents.
 
 
     

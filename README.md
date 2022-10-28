@@ -343,7 +343,7 @@ According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applicat
 
 Warehouse robotics involves the use of automated systems, robots and specialized software to automate the flow of goods and increase productivity. These technologies are used to transport materials, perform various tasks, and automate warehouse processes. The relevance of robotics in areas of supply chain, distribution center and warehouse management has increased significantly in the last decade.
 
-### What Types of robots are applied in warehouses?
+### What types of robots are applied in warehouses?
 
 #### Automated Guided Vehicles (AGV)
 

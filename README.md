@@ -351,9 +351,26 @@ Automatic Guided Vehicles are transport devices similar to forklifts that are us
 
 #### Automated storage and retrieval systems (AS/RS)
 
-AS/RS are computerized systems used to automate inventory management and storage/retrieval of goods on demand. They include stacker cranes for pallets, mini-load systems or the automatic pallet shuttle system, which are usually coupled with warehouse management software and allow the rapid removal and placement of products. The fact that these technologies operate twenty-four hours a day enables the continuous movement of goods, increasing the speed with which an order can be processed and materials handled.
+AS/RS are computerized systems used to automate inventory management and storage/retrieval of goods on demand. They include stacker cranes for pallets, mini-load systems or the automatic pallet shuttle system, which are usually coupled with warehouse management software and allow the rapid removal and placement of products. The fact that these technologies operate twenty-four hours a day enables the continuous movement of goods, increasing the speed with which an order can be processed and materials handled. 
 
 #### Articulated robotic arms
+
+Articulated robotic arms look like multi-jointed limbs and are used to handle products and distribution centers.  These robots have components that perform rotating and conveying motions, consequently they can rotate, lift and maneuver objects. The arms can work completely independently or together with warehouse workers.Robots facilitate order assembly and can assist warehouse workers in handling heavy loads.
+
+### What are benefits of warehouse robots?
+
+1. Increased productivity and efficiency
+By using robots in the warehouse, work becomes far faster and more efficient. For example, warehouse workers can stay at the picking stations and wait for the AS/RS and conveyors to bring them the goods for order assembly. As a result, they don't need to run around the warehouse looking for the items they need.
+
+2. Increased accuracy in workflows
+If goods are managed manually, there is an increased risk of error - for instance, putting an item in the wrong place or putting together an order without the appropriate item - which can cause high costs in the company. Robots, by contrast, follow the instructions of the management software regarding the handling, picking and sorting of goods. Consequently, a high level of accuracy is ensured in order handling and warehousing.
+
+3. Collaboration with warehouse workers.
+Robots facilitate warehouse workers' routine tasks and help them be more efficient. For example, these machines can move large volumes of goods without any problems, allowing the warehouse worker to focus on other tasks with higher added value.
+
+4. Increased Safety
+Handling of goods is associated with an increased risk of accidents, especially with heavy loads or when handling in uncomfortable positions and performing repetitive motions. Robots perform various tasks accurately and without the risk of accidents
+
 
     
 ## Advantages of robots

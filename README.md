@@ -294,7 +294,7 @@ Industrial Robots
         * contains of three components 
         ![Image of components of da vinci system](da_Vinci_system_components.png)
 
-    * Top robotic surgery comapnies in the U.S.  
+    * Top robotic surgery companies in the U.S.  
         1. Intuitive Surgical
         2. Stryker
         3. Smith & Nephew
@@ -323,7 +323,7 @@ Robots can be used for harvesting fruits, [like this robot picking grapes](https
 
 When it comes to research and development some of the [Robotnik](https://robotnik.eu/robotics-applications-in-agriculture/) projects are BACCHUS, AGROBOFOOD and CORSECT. Where Bacchus has the ability to both collet data and do harvesting at the same time. While Agrobofood aims do create a digital transformation in the agricultural sector. Corsect on the other hand works on optimizing insect production. 
 
-According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry) the top 10 Applications of Robotis agriculture is: 
+According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry) the top 10 Applications of Robots agriculture is: 
 
 1. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k)
 2. Crop Seeding: [with high precision.](https://www.youtube.com/watch?v=OoUGSb-ASTc)
@@ -335,6 +335,26 @@ According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applicat
 8. Picking and harvesting: [like this robot picking grapes.](https://www.youtube.com/watch?v=hVvs6_Wx2HM)
 9. Shepherding and Herding: [with "robot dog".](https://www.youtube.com/watch?v=gD7K6-q-o50)
 10. Milking: [both reducing need for labour and stress for the cow.](https://www.youtube.com/watch?v=tLjI_eixBQk)
+
+
+## Application of robots in the warehouse sector
+
+### What is a warehouse robot?
+
+Warehouse robotics involves the use of automated systems, robots and specialized software to automate the flow of goods and increase productivity. These technologies are used to transport materials, perform various tasks, and automate warehouse processes. The relevance of robotics in areas of supply chain, distribution center and warehouse management has increased significantly in the last decade.
+
+### What Types of robots are applied in warehouses?
+
+#### Automated Guided Vehicles (AGV)
+
+Automatic Guided Vehicles are transport devices similar to forklifts that are used to move materials, supplies and inventory within a warehouse facility. The technologies operate without drivers, instead following set routes defined by wires, magnetic strips, rails, sensors embedded in the floor or other physical guides. Other robots use cameras and infrared to identify obstacles and avoid collisions.
+
+#### Automated storage and retrieval systems (AS/RS)
+
+AS/RS are computerized systems used to automate inventory management and storage/retrieval of goods on demand. They include stacker cranes for pallets, mini-load systems or the automatic pallet shuttle system, which are usually coupled with warehouse management software and allow the rapid removal and placement of products. The fact that these technologies operate twenty-four hours a day enables the continuous movement of goods, increasing the speed with which an order can be processed and materials handled.
+
+#### Articulated robotic arms
+
     
 ## Advantages of robots
 
@@ -360,7 +380,7 @@ According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applicat
 
 ## Conclusion 
 
-Robots may be one of the greatest inventions ever, but we must utilise their power with prudence. Perhaps it is a good idea to have industrial robots that can reduce human danger, raise production, and increase profit. But it is insane to design or build anything that threatens the very existence of its creator. Although humanoid robots are still primarily confined to science fiction, robotic devices are all around us. These engineering marvels currently assist us in many aspects of life and have the potential to influence our future.
+Robots may be one of the greatest inventions ever, but we must utilize their power with prudence. Perhaps it is a good idea to have industrial robots that can reduce human danger, raise production, and increase profit. But it is insane to design or build anything that threatens the very existence of its creator. Although humanoid robots are still primarily confined to science fiction, robotic devices are all around us. These engineering marvels currently assist us in many aspects of life and have the potential to influence our future.
 
 Despite a number of advantages and downsides, one thing is certain: persons with robotics expertise will be in great demand in the future. There will almost certainly always be work in the field of robotics, whether it be designing, programming, or maintaining robots.
 

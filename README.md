@@ -353,8 +353,6 @@ Automatic Guided Vehicles are transport devices similar to forklifts that are us
 
 AS/RS are computerized systems used to automate inventory management and storage/retrieval of goods on demand. They include stacker cranes for pallets, mini-load systems or the automatic pallet shuttle system, which are usually coupled with warehouse management software and allow the rapid removal and placement of products. The fact that these technologies operate twenty-four hours a day enables the continuous movement of goods, increasing the speed with which an order can be processed and materials handled. 
 
-![Image of AS/RS](AS:RS.jpeg)
-
 #### Articulated robotic arms
 
 Articulated robotic arms look like multi-jointed limbs and are used to handle products and distribution centers.  These robots have components that perform rotating and conveying motions, consequently they can rotate, lift and maneuver objects. The arms can work completely independently or together with warehouse workers.Robots facilitate order assembly and can assist warehouse workers in handling heavy loads.

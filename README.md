@@ -21,7 +21,7 @@ In the following years other Robots were developed that were used in the automot
 
 #### The characteristics of Cobots
 
-A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__.
+A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__. Typically, cobots are more mobile and easier to move, which distinguishes them from typical industrial robots.
 
 ## Producers
 

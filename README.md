@@ -337,6 +337,35 @@ According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applicat
 10. Milking: [both reducing need for labour and stress for the cow.](https://www.youtube.com/watch?v=tLjI_eixBQk)
 
 
+## Application Of Robots in Military
+
+Robots in military help to reduce the cost of war on human lives. Today the military uses
+robots in various tasks especially those that are difficult for human beings or those deemed to
+dangerous to the lives of the soldiers and with costly repercussions. This is aimed at reducing the
+number of soldiers lost to war while meeting the needs of the military. In addition to being able
+to operate in harsh weather conditions as well as terrain, robots used in this field are remotely
+controlled and well equipped with cameras, sensors and mechanical limbs to be able to perform
+their tasks.
+There are two distinct types of robots used by the military; the ones that inflict damage to
+the enemy, while others are used to collect information as well as surveillance and
+reconnaissance.
+When it comes to robot development in this space, some of the projects include the
+[Robobee](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=the%20near%20future.-,The%20Robobee,-Developed%20by%20Harvard%E2%80%99s), [Dogo](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=for%20crop%20pollination.-,The%20DOGO,-The%20DOGO%20is) and [Saffir](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=safe%20from%20harm.-,SAFFiR,-Created%20by%20engineering). Where the [Robobee](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=the%20near%20future.-,The%20Robobee,-Developed%20by%20Harvard%E2%80%99s) manages remotely controlled aerial surveillance
+without detection. while [Dogo](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=for%20crop%20pollination.-,The%20DOGO,-The%20DOGO%20is) is capable of ground reconnaissance with both defensive and
+offensive capabilities. [Saffir](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=safe%20from%20harm.-,SAFFiR,-Created%20by%20engineering) on the hand is built to tackle fires on sea vessels and can even see-
+through smoke.
+According to [internal research journal of engineering and technology, of the Sinhgad
+institute of technology and science, dated 05 May,2017](https://www.academia.edu/download/53592731/IRJET-V4I5490.pdf), key applications of the robots used in the military include:
+1. Surveillance: being able to offer real time monitoring of the field and areas of
+interest.
+2. Reconnaissance: getting to the area of interest for information gathering and back.
+3. Triangulation: being able to locate specific targets with precision and accuracy.
+4. Threat detection: identifying threats such as landmines, hostiles, toxic gasses and
+fires
+5. Assistance in rescues: being able to identify humans for rescue through tough and dangerous situations.
+
+
+
 ## Application of robots in the warehouse sector
 
 ### What is a warehouse robot?
@@ -413,3 +442,9 @@ Despite a number of advantages and downsides, one thing is certain: persons with
 - FANUC | The Factory Automation Company - Fanuc. (n.d.). Retrieved October 11, 2022, from https://www.fanuc.eu/de/en
 
 - Robotnik | Robotics applications in agriculture. Retrieved October 26, 2022, from https://robotnik.eu/robotics-applications-in-agriculture/
+
+- RoboticsCareer | These are the 3 Most Advanced Robots of the Future. Retrieved November 11, 2022, from [https://www.roboticscareer.org](https://www.roboticscareer.org/news-and-events/news/23031)
+
+- Sinhgad Institute of Technolgy and Science, Internal Research Journal of Engineering and
+Technology | Military Robot for Reconnaissance and Surveillance Using Image
+Processing. Retrieved November 11, 2022, from [https://www.academia.edu](https://www.academia.edu/download/53592731/IRJET-V4I5490.pdf)
